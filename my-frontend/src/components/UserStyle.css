@@ -1,0 +1,73 @@
+p {
+    text-align: left;
+    color: wheat;
+    text-decoration:solid;
+    text-decoration-color: black ;
+    text-indent: 30px;
+    line-height: 1.8;
+
+    
+  }
+
+h2 , h3{
+  text-shadow: 5px 2px 5px red;
+  font-family: Copperplate, Papyrus, fantasy; 
+  font-style: italic;
+  font-weight: bold;
+}
+
+#part1 {
+  text-align: left;
+  color: wheat;
+}
+
+
+
+.bookInformation {
+  text-align: left;
+  color: wheat;
+  margin-bottom: 20px;
+}
+
+div {
+  background-color: gray ;
+  opacity: 0.9;
+  background-image: url("cute.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 1000px;
+  
+}
+
+button {
+  border-style: ridge;
+  border-width: 5px 5px;
+  border-color: black;
+  border-radius: 5px;
+  background-color: #ff0000;
+}
+
+.NoPage{
+  text-align: center;
+  text-transform: uppercase;
+  
+}
+
+#AI{
+  text-align: center;
+}
+
+#AI-input{
+  margin-left: 660px;
+}
+
+#Login{
+  text-align: center;
+}
+
+#Login-input{
+  margin-left: 580px;
+}
+
+
